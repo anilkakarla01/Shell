@@ -1,2 +1,2 @@
-# Shell for reference 
+# Shell for reference and practice
 Schell Scripts
